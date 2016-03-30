@@ -1,0 +1,13 @@
+.bar{
+	background-color: purple;
+	width:auto;
+	padding: 5px;
+	display: flex;
+}
+.home{
+	color: white;
+	font-family: sans-serif;
+	word-spacing: 25px;
+	margin-top: 5px
+
+}

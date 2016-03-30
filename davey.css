@@ -1,0 +1,10 @@
+
+		body {background: url("davey.png"); background-size: 100%}
+		.body {font-family: tahoma; margin:365px; width:320px; margin-top:118px;}
+		.title {color: white; letter-spacing: 5px; font-weight: bold; font-size: 12px; text-align: center;}
+		.name {color: white; letter-spacing: 2px; font-weight: bold; font-size: 25px; text-align: center;}
+		.experience {color:white; font-weight: bold; font-size:15px;}
+		.company {color:white; font-weight: bold; font-size: 13px; line-height:0.5; text-indent:20px;}
+		.detail {color:white; opacity:0.5; line-height: 2; text-indent:40px; line-height: 2;}
+		p {color: white; list-style: none; font-size: 12px;}
+	

@@ -1,0 +1,21 @@
+.flex{
+width: 800px
+display: flex;
+justify-contet: space-between; 
+background: white; 
+}
+
+.nav{
+width: 200px;
+background: red;
+}
+
+.content {
+background: purple;
+flex:1;
+}
+
+.widgets {
+	width:300px;
+	background: blue;
+}

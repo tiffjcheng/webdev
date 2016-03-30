@@ -1,0 +1,37 @@
+.topbar{
+	background-color: purple; 
+	color: white;
+	font-family: arial;
+}
+.topbar ul{
+	list-style: none; 
+}
+.topbar li{
+	display: inline-block;
+	margin-right: 28px;
+}
+.yahoo{
+	margin-left: 50px;
+}
+.leftcolumn{
+	width:150px;
+	height: 500px;
+	background-color: purple;
+	margin-left: 50px;
+	display:inline-block;
+}
+.middlecolumn {
+	width:700px;
+	height: 500px;
+	background-color: orange;
+	margin-left: 150px;
+	position: absolute;
+	display: inline-block;
+}
+.rightcolumn {
+	width: 200px;
+	height: 200px;
+	background-color: hotpink;
+	margin-left: 1000px;
+	margin-top:-18px;
+}
