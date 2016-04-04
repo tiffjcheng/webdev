@@ -3,14 +3,14 @@ h1 {
 }
 .first-box {
 	height:20px;
-	background-color: blue;
+	background-color: red;
 }
 .second-box {
 	width:1000px;
 	height:200px;
 	padding:50px;
 	margin:150px;
-	background-color: pink;
+	background-color: green;
 }
 .fun {
 	width:500px;
